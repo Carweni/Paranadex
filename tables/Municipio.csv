@@ -1,0 +1,400 @@
+idMunicip,fkRegiao,nomeMunicip
+1,1,Alto Paraná
+2,1,Amaporã
+3,1,Cruzeiro do Sul
+4,1,Diamante do Norte
+5,1,Guairaçá
+6,1,Inajá
+7,1,Itaúna do Sul
+8,1,Jardim Olinda
+9,1,Loanda
+10,1,Marilena
+11,1,Mirador
+12,1,Nova Aliança do Ivaí
+13,1,Nova Londrina
+14,1,Paraíso do Norte
+15,1,Paranacity
+16,1,Paranapoema
+17,1,Paranavaí
+18,1,Planaltina do Paraná
+19,1,Porto Rico
+20,1,Querência do Norte
+21,1,Santa Cruz de Monte Castelo
+22,1,Santa Isabel do Ivaí
+23,1,Santa Mônica
+24,1,Santo Antônio do Caiuá
+25,1,São Carlos do Ivaí
+26,1,São João do Caiuá
+27,1,São Pedro do Paraná
+28,1,Tamboara
+29,1,Terra Rica
+30,1,Alto Paraíso
+31,1,Alto Piquiri
+32,1,Altônia
+33,1,Brasilândia do Sul
+34,1,Cafezal do Sul
+35,1,Cruzeiro do Oeste
+36,1,Douradina
+37,1,Esperança Nova
+38,1,Francisco Alves
+39,1,Icaraíma
+40,1,Iporã
+41,1,Ivaté
+42,1,Maria Helena
+43,1,Mariluz
+44,1,Nova Olímpia
+45,1,Perobal
+46,1,Pérola
+47,1,São Jorge do Patrocínio
+48,1,Tapira
+49,1,Umuarama
+50,1,Xambrê
+51,1,Cianorte
+52,1,Cidade Gaúcha
+53,1,Guaporema
+54,1,Indianópolis
+55,1,Japurá
+56,1,Jussara
+57,1,Rondon
+58,1,São Manoel do Paraná
+59,1,São Tomé
+60,1,Tapejara
+61,1,Tuneiras do Oeste
+62,2,Altamira do Paraná
+63,2,Boa Esperança
+64,2,Campina da Lagoa
+65,2,Goioerê
+66,2,Janiópolis
+67,2,Juranda
+68,2,Moreira Sales
+69,2,Nova Cantu
+70,2,Quarto Centenário
+71,2,Rancho Alegre d'Oeste
+72,2,Ubiratã
+73,2,Araruna
+74,2,Barbosa Ferraz
+75,2,Campo Mourão
+76,2,Corumbataí do Sul
+77,2,Engenheiro Beltrão
+78,2,Farol
+79,2,Fênix
+80,2,Iretama
+81,2,Luiziana
+82,2,Mamborê
+83,2,Peabiru
+84,2,Quinta do Sol
+85,2,Roncador
+86,2,Terra Boa
+87,5,Imbaú
+88,5,Ortigueira
+89,5,Reserva
+90,5,Telêmaco Borba
+91,5,Tibagi
+92,5,Ventania
+93,5,Arapoti
+94,5,Jaguariaíva
+95,5,Piraí do Sul
+96,5,Sengés
+97,5,Carambeí
+98,5,Castro
+99,5,Palmeira
+100,5,Ponta Grossa
+101,8,Boa Ventura de São Roque
+102,8,Laranjal
+103,8,Mato Rico
+104,8,Palmital
+105,8,Pitanga
+106,8,Santa Maria do Oeste
+107,8,Campina do Simão
+108,8,Candói
+109,8,Cantagalo
+110,8,Espigão Alto do Iguaçu
+111,8,Foz do Jordão
+112,8,Goioxim
+113,8,Guarapuava
+114,8,Inácio Martins
+115,8,Laranjeiras do Sul
+116,8,Marquinho
+117,8,Nova Laranjeiras
+118,8,Pinhão
+119,8,Porto Barreiro
+120,8,Quedas do Iguaçu
+121,8,Reserva do Iguaçu
+122,8,Rio Bonito do Iguaçu
+123,8,Turvo
+124,8,Virmond
+125,8,Clevelândia
+126,8,Coronel Domingos Soares
+127,8,Honório Serpa
+128,8,Mangueirinha
+129,8,Palmas
+130,3,Ângulo
+131,3,Astorga
+132,3,Atalaia
+133,3,Cafeara
+134,3,Centenário do Sul
+135,3,Colorado
+136,3,Flórida
+137,3,Guaraci
+138,3,Iguaraçu
+139,3,Itaguajé
+140,3,Jaguapitã
+141,3,Lobato
+142,3,Lupionópolis
+143,3,Mandaguaçu
+144,3,Munhoz de Mello
+145,3,Nossa Senhora das Graças
+146,3,Nova Esperança
+147,3,Presidente Castelo Branco
+148,3,Santa Fé
+149,3,Santa Inês
+150,3,Santo Inácio
+151,3,Uniflor
+152,3,Alvorada do Sul
+153,3,Bela Vista do Paraíso
+154,3,Florestópolis
+155,3,Miraselva
+156,3,Porecatu
+157,3,Prado Ferreira
+158,3,Primeiro de Maio
+159,3,Sertanópolis
+160,3,Doutor Camargo
+161,3,Floraí
+162,3,Floresta
+163,3,Itambé
+164,3,Ivatuba
+165,3,Ourizona
+166,3,São Jorge do Ivaí
+167,3,Mandaguari
+168,3,Marialva
+169,3,Maringá
+170,3,Paiçandu
+171,3,Sarandi
+172,3,Apucarana
+173,3,Arapongas
+174,3,Califórnia
+175,3,Cambira
+176,3,Jandaia do Sul
+177,3,Marilândia do Sul
+178,3,Mauá da Serra
+179,3,Novo Itacolomi
+180,3,Sabáudia
+181,3,Cambé
+182,3,Ibiporã
+183,3,Londrina
+184,3,Pitangueiras
+185,3,Rolândia
+186,3,Tamarana
+187,3,Bom Sucesso
+188,3,Borrazópolis
+189,3,Cruzmaltina
+190,3,Faxinal
+191,3,Kaloré
+192,3,Marumbi
+193,3,Rio Bom
+194,3,Arapuã
+195,3,Ariranha do Ivaí
+196,3,Cândido de Abreu
+197,3,Godoy Moreira
+198,3,Grandes Rios
+199,3,Ivaiporã
+200,3,Jardim Alegre
+201,3,Lidianópolis
+202,3,Lunardelli
+203,3,Manoel Ribas
+204,3,Nova Tebas
+205,3,Rio Branco do Ivaí
+206,3,Rosário do Ivaí
+207,3,São João do Ivaí
+208,3,São Pedro do Ivaí
+209,4,Assaí
+210,4,Jataizinho
+211,4,Nova Santa Bárbara
+212,4,Rancho Alegre
+213,4,Santa Cecília do Pavão
+214,4,São Jerônimo da Serra
+215,4,São Sebastião da Amoreira
+216,4,Uraí
+217,4,Abatiá
+218,4,Andirá
+219,4,Bandeirantes
+220,4,Congonhinhas
+221,4,Cornélio Procópio
+222,4,Itambaracá
+223,4,Leópolis
+224,4,Nova América da Colina
+225,4,Nova Fátima
+226,4,Santa Amélia
+227,4,Santa Mariana
+228,4,Santo Antônio do Paraíso
+229,4,Sertaneja
+230,4,Ribeirão do Pinhal
+231,4,Barra do Jacaré
+232,4,Cambará
+233,4,Jacarezinho
+234,4,Jundiaí do Sul
+235,4,Ribeirão Claro
+236,4,Santo Antônio da Platina
+237,4,Conselheiro Mairinck
+238,4,Curiúva
+239,4,Figueira
+240,4,Ibaiti
+241,4,Jaboti
+242,4,Japira
+243,4,Pinhalão
+244,4,Sapopema
+245,4,Carlópolis
+246,4,Guapirama
+247,4,Joaquim Távora
+248,4,Quatiguá
+249,4,Salto do Itararé
+250,4,Santana do Itararé
+251,4,São José da Boa Vista
+252,4,Siqueira Campos
+253,4,Tomazina
+254,4,Wenceslau Braz
+255,6,Assis Chateaubriand
+256,6,Diamante d'Oeste
+257,6,Entre Rios do Oeste
+258,6,Formosa do Oeste
+259,6,Guaíra
+260,6,Iracema do Oeste
+261,6,Jesuítas
+262,6,Marechal Cândido Rondon
+263,6,Maripá
+264,6,Mercedes
+265,6,Nova Santa Rosa
+266,6,Ouro Verde do Oeste
+267,6,Palotina
+268,6,Pato Bragado
+269,6,Quatro Pontes
+270,6,Santa Helena
+271,6,São José das Palmeiras
+272,6,São Pedro do Iguaçu
+273,6,Terra Roxa
+274,6,Toledo
+275,6,Tupãssi
+276,6,Anahy
+277,6,Boa Vista da Aparecida
+278,6,Braganey
+279,6,Cafelândia
+280,6,Campo Bonito
+281,6,Capitão Leônidas Marques
+282,6,Cascavel
+283,6,Catanduvas
+284,6,Corbélia
+285,6,Diamante do Sul
+286,6,Guaraniaçu
+287,6,Ibema
+288,6,Iguatu
+289,6,Lindoeste
+290,6,Nova Aurora
+291,6,Santa Lúcia
+292,6,Santa Tereza do Oeste
+293,6,Três Barras do Paraná
+294,6,Céu Azul
+295,6,Foz do Iguaçu
+296,6,Itaipulândia
+297,6,Matelândia
+298,6,Medianeira
+299,6,Missal
+300,6,Ramilândia
+301,6,Santa Terezinha de Itaipu
+302,6,São Miguel do Iguaçu
+303,6,Serranópolis do Iguaçu
+304,6,Vera Cruz do Oeste
+305,10,Adrianópolis
+306,10,Cerro Azul
+307,10,Doutor Ulysses
+308,10,Lapa
+309,10,Porto Amazonas
+310,10,Almirante Tamandaré
+311,10,Araucária
+312,10,Balsa Nova
+313,10,Bocaiúva do Sul
+314,10,Campina Grande do Sul
+315,10,Campo Largo
+316,10,Campo Magro
+317,10,Colombo
+318,10,Contenda
+319,10,Curitiba
+320,10,Fazenda Rio Grande
+321,10,Itaperuçu
+322,10,Mandirituba
+323,10,Pinhais
+324,10,Piraquara
+325,10,Quatro Barras
+326,10,Rio Branco do Sul
+327,10,São José dos Pinhais
+328,10,Tunas do Paraná
+329,10,Antonina
+330,10,Guaraqueçaba
+331,10,Guaratuba
+332,10,Matinhos
+333,10,Morretes
+334,10,Paranaguá
+335,10,Pontal do Paraná
+336,10,Agudos do Sul
+337,10,Campo do Tenente
+338,10,Piên
+339,10,Quitandinha
+340,10,Rio Negro
+341,10,Tijucas do Sul
+342,9,Fernandes Pinheiro
+343,9,Guamiranga
+344,9,Imbituva
+345,9,Ipiranga
+346,9,Ivaí
+347,9,Prudentópolis
+348,9,Teixeira Soares
+349,9,Irati
+350,9,Mallet
+351,9,Rebouças
+352,9,Rio Azul
+353,9,Bituruna
+354,9,Cruz Machado
+355,9,General Carneiro
+356,9,Paula Freitas
+357,9,Paulo Frontin
+358,9,Porto Vitória
+359,9,União da Vitória
+360,9,Antônio Olinto
+361,9,São João do Triunfo
+362,9,São Mateus do Sul
+363,7,Ampére
+364,7,Bela Vista da Caroba
+365,7,Capanema
+366,7,Pérola d'Oeste
+367,7,Planalto
+368,7,Pranchita
+369,7,Realeza
+370,7,Santa Izabel do Oeste
+371,7,Barracão
+372,7,Boa Esperança do Iguaçu
+373,7,Bom Jesus do Sul
+374,7,Cruzeiro do Iguaçu
+375,7,Dois Vizinhos
+376,7,Enéas Marques
+377,7,Flor da Serra do Sul
+378,7,Francisco Beltrão
+379,7,Manfrinópolis
+380,7,Marmeleiro
+381,7,Nova Esperança do Sudoeste
+382,7,Nova Prata do Iguaçu
+383,7,Pinhal de São Bento
+384,7,Renascença
+385,7,Salgado Filho
+386,7,Salto do Lontra
+387,7,Santo Antônio do Sudoeste
+388,7,São Jorge d'Oeste
+389,7,Verê
+390,7,Bom Sucesso do Sul
+391,7,Chopinzinho
+392,7,Coronel Vivida
+393,7,Itapejara d'Oeste
+394,7,Mariópolis
+395,7,Pato Branco
+396,7,São João
+397,7,Saudade do Iguaçu
+398,7,Sulina
+399,7,Vitorino
