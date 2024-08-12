@@ -14,7 +14,7 @@ Para rodar este projeto em sua máquina, é necessário que a ferramenta postgre
 - **Caroline Morelli da Silveira**
 - **Júlia Salvi Gonçalves**
 - **Laura Armiliato Sangalli**
-- **Maria Cristina Fabiana**
+- **Maria Cristina Fabiane**
 - **Maria Isabela Silva Nunes**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
